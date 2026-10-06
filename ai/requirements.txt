@@ -1,0 +1,8 @@
+sentence-transformers>=3.0
+scikit-learn
+numpy
+anthropic
+fastapi
+uvicorn
+json-repair
+edge-tts

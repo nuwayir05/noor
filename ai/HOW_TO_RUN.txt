@@ -1,0 +1,21 @@
+NOOR BACKEND: HOW TO RUN (Windows, VS Code terminal, inside this folder)
+
+ONE TIME
+  1. py -m pip install -r requirements.txt
+  2. Copy "env.example" to a new file named ".env" and paste your API key in it.
+     (Then you never have to type the key again. Never send .env to anyone.)
+
+BEFORE THE DEMO (about 5-10 minutes, about $0.5)
+  3. py pregenerate.py
+     -> makes the 16 instant answers + the 2 stories
+     -> creates fallback-packs.json  (copy it to src/data/fallback-packs.json in the website)
+     -> creates packs_review.html    (open in a browser, send to Dana Al-Qubaisi to approve)
+     If she rejects one:   py pregenerate.py --remove "the question"
+     To redo one:          py pregenerate.py --only "the question"
+
+RUN THE SERVER (keep this terminal open during the demo)
+  4. py -m uvicorn server:app --port 8000
+     Test it in the browser: http://localhost:8000/health
+     The website uses:      VITE_NOOR_API_URL=http://localhost:8000
+
+Tests you already ran still work:  py eval_retrieval.py   and   py test_relevance.py

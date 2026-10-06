@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="5 8 76 78" role="img" aria-label="نور">
+  <title>Noor نور</title>
+  <g transform="translate(-55.5 -2.6) scale(0.52)">
+    <path d="M126 164 L126 100 Q126 58 190 28 Q254 58 254 100 L254 164 Z" fill="#D6E6F4"/>
+    <g transform="translate(19 0) scale(0.9)">
+      <path d="M150 72 L156 48 L176 64 Z" fill="#5B87B5" stroke="#5B87B5" stroke-width="6" stroke-linejoin="round"/>
+      <path d="M230 72 L224 48 L204 64 Z" fill="#5B87B5" stroke="#5B87B5" stroke-width="6" stroke-linejoin="round"/>
+      <ellipse cx="190" cy="110" rx="52" ry="58" fill="#5B87B5"/>
+      <ellipse cx="190" cy="140" rx="28" ry="22" fill="#DCE9F5"/>
+      <circle cx="168" cy="92" r="20" fill="#FFF6E0"/>
+      <circle cx="212" cy="92" r="20" fill="#FFF6E0"/>
+      <path d="M174 82.8 A11 11 0 1 0 174 101.2 A12 12 0 0 1 174 82.8 Z" fill="#2F4E73"/>
+      <path d="M212 82 L214.5 88.6 L221.5 88.9 L216 93.3 L217.9 100.1 L212 96.2 L206.1 100.1 L208 93.3 L202.5 88.9 L209.5 88.6 Z" fill="#E8B04A" stroke="#E8B04A" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M184 103 L196 103 L190 115 Z" fill="#E8B04A" stroke="#E8B04A" stroke-width="3" stroke-linejoin="round"/>
+      <path d="M153 154 Q173 147 190 155 Q207 147 227 154 L227 178 Q207 171 190 179 Q173 171 153 178 Z" fill="#2F4E73"/>
+      <path d="M158 154 Q174 149 190 156 L190 174 Q174 168 158 172 Z" fill="#FFF6E0"/>
+      <path d="M222 154 Q206 149 190 156 L190 174 Q206 168 222 172 Z" fill="#FFF6E0"/>
+      <path d="M165 160 L182 162 M165 166 L182 168 M198 162 L215 160 M198 168 L215 166" fill="none" stroke="#E8B04A" stroke-width="2" stroke-linecap="round"/>
+      <ellipse cx="152" cy="158" rx="8" ry="12" fill="#4A76A3"/>
+      <ellipse cx="228" cy="158" rx="8" ry="12" fill="#4A76A3"/>
+    </g>
+  </g>
+  <text x="96" y="50" font-family="Cairo, Tajawal, Tahoma, Arial, sans-serif" font-size="40" font-weight="700" fill="#2F4E73">نور</text>
+  <line x1="176" y1="22" x2="176" y2="54" stroke="#5B87B5" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="190" y="50" font-family="Cairo, Tajawal, Tahoma, Arial, sans-serif" font-size="35" font-weight="600" fill="#2F4E73">Noor</text>
+  <text x="96" y="76" font-family="Cairo, Tajawal, Tahoma, Arial, sans-serif" font-size="13" fill="#5B87B5">أسئلة الأطفال الدينية بأسلوب هادئ وممتع</text>
+</svg>
